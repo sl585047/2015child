@@ -1,0 +1,21 @@
+/*
+Theme Name: Nucleare Child
+Version: 1.0
+Description: A child theme of nucleare
+Template: nucleare-wpcom
+*/
+
+@import url("../nucleare-wpcom/style.css");
+
+
+.textwidget{
+  color:white;
+  
+}
+
+.open-search top-search{
+  background-color:#e27caa;
+  
+}
+  
+
